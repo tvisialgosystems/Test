@@ -1,0 +1,32 @@
+c:\users\tvisi algo systems\documents\visual studio 2010\Projects\MFITest\MFITest\bin\Debug\MFITest.exe
+c:\users\tvisi algo systems\documents\visual studio 2010\Projects\MFITest\MFITest\bin\Debug\MFITest.pdb
+c:\users\tvisi algo systems\documents\visual studio 2010\Projects\MFITest\MFITest\bin\Debug\TA-Lib-Core.dll
+c:\users\tvisi algo systems\documents\visual studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\MFITest.csprojResolveAssemblyReference.cache
+c:\users\tvisi algo systems\documents\visual studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\MFITest.Form1.resources
+c:\users\tvisi algo systems\documents\visual studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\MFITest.Properties.Resources.resources
+c:\users\tvisi algo systems\documents\visual studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\MFITest.csproj.GenerateResource.Cache
+c:\users\tvisi algo systems\documents\visual studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\MFITest.exe
+c:\users\tvisi algo systems\documents\visual studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\MFITest.pdb
+C:\Users\Tvisi Algo Systems\Documents\Visual Studio 2010\Projects\MFITest\MFITest\bin\Debug\MFITest.exe.config
+C:\Users\Kezin\Documents\Visual Studio 2010\Projects\MFITest\MFITest\bin\Debug\MFITest.exe.config
+C:\Users\Kezin\Documents\Visual Studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\MFITest.exe
+C:\Users\Kezin\Documents\Visual Studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\MFITest.pdb
+C:\Users\Kezin\Documents\Visual Studio 2010\Projects\MFITest\MFITest\bin\Debug\MFITest.exe
+C:\Users\Kezin\Documents\Visual Studio 2010\Projects\MFITest\MFITest\bin\Debug\MFITest.pdb
+C:\Users\Kezin\Documents\Visual Studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\MFITest.Form1.resources
+C:\Users\Kezin\Documents\Visual Studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\MFITest.Properties.Resources.resources
+C:\Users\TAS\Dropbox\Tvisi Algo Systems\Other Source Code\Tech Indicator Test Optimization\Code for Test purpose\MFITest\MFITest\bin\Debug\MFITest.exe.config
+C:\Users\TAS\Dropbox\Tvisi Algo Systems\Other Source Code\Tech Indicator Test Optimization\Code for Test purpose\MFITest\MFITest\obj\x86\Debug\MFITest.exe
+C:\Users\TAS\Dropbox\Tvisi Algo Systems\Other Source Code\Tech Indicator Test Optimization\Code for Test purpose\MFITest\MFITest\obj\x86\Debug\MFITest.pdb
+C:\Users\TAS\Documents\Visual Studio 2010\Projects\MFITest\MFITest\bin\Debug\MFITest.exe.config
+C:\Users\TAS\Documents\Visual Studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\MFITest.exe
+C:\Users\TAS\Documents\Visual Studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\MFITest.pdb
+C:\Users\TAS\Documents\Visual Studio 2010\Projects\MFITest\MFITest\bin\Debug\MFITest.exe
+C:\Users\TAS\Documents\Visual Studio 2010\Projects\MFITest\MFITest\bin\Debug\MFITest.pdb
+C:\Users\TAS\Documents\Visual Studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TAS\Documents\Visual Studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\MFITest.Form1.resources
+C:\Users\TAS\Documents\Visual Studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\MFITest.Properties.Resources.resources
+C:\Users\TAS\Documents\Visual Studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\TAS\Documents\Visual Studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Kezin\Documents\Visual Studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\MFITest.csprojResolveAssemblyReference.cache
+C:\Users\Kezin\Documents\Visual Studio 2010\Projects\MFITest\MFITest\obj\x86\Debug\MFITest.csproj.GenerateResource.Cache
