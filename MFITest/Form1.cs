@@ -390,6 +390,9 @@ namespace MFITest
         {
             // on jan 09. 11:12 AM IST
             //trying to sync on githut using githut windows
+
+            //edited on 9 jan 11:26 AM IST
+            MessageBox.Show("check updated code on Github directly");
         }
     }
 }
